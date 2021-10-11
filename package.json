@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "firebase emulators:start --only hosting"
+    "dev": "firebase emulators:start --only hosting",
+    "deploy": "firebase deploy --only hosting"
   },
     "repository": {
     "type": "git",

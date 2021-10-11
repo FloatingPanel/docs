@@ -6,6 +6,12 @@
       "**/.*",
       "**/node_modules/**"
     ],
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/documentation/floatingpanel"
+      }
+    ],
     "rewrites": [
       {
         "source": "**",
