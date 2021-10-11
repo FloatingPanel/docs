@@ -1,0 +1,17 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "firebase-tools": "^9.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "firebase emulators:start --only hosting"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloatingPanel/docs.git"
+  }
+}
